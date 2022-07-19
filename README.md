@@ -5,15 +5,11 @@
 
   ## Table of Contents
   - [Description](#Description)
-  - [Installation](#Installation)
   - [Usage](#Usage)
   - [License](#License)
 
   - [Questions](#Questions)
     
-  ## Installation
-  
-
   ## Usage
   A walkthrough of the API functionality is available here:
 
