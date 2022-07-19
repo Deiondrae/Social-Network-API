@@ -1,7 +1,7 @@
 # Social Network API
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
   ## Description
-  This is an API for a social network application where users can share their thoughts, react to friends thoughts and create a friendslist
+  This is an API for a social network application where users can share their thoughts, react to friends thoughts and create a friendslist. The APi uses express for routing, a MongoDB database and the mongoose ODM.
 
   ## Table of Contents
   - [Description](#Description)
