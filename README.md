@@ -29,7 +29,7 @@
   ```bash
   npm start
   ```
-  This will connect the express server to social media API's database. There is currently no front end for these routes so routes must be tested with insomnia.
+  This will connect the express server to social network API's database. There is currently no front end for these routes so routes must be tested with insomnia.
 
   ## License
   https://opensource.org/licenses/MIT
