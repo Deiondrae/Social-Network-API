@@ -30,6 +30,14 @@
   npm start
   ```
   This will connect the express server to social media API's database. There is currently no front end for these routes so routes must be tested with insomnia.
+  
+  Sample image of a get request for all users
+  
+  ![image](https://user-images.githubusercontent.com/99364958/180303109-d13d68a5-5e08-431d-b439-d2d644c494d8.png)
+  
+  walkthrough video of functionality found here:
+  https://drive.google.com/file/d/17t-67HaTXnBLqqeePbTIRLJgZXA5KLcg/view
+
 
   ## License
   https://opensource.org/licenses/MIT
